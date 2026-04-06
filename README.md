@@ -1,5 +1,4 @@
 # 💊 Pharmacy Sales & Profitability Analysis Dashboard
-
 ---
 
 ## Project Overview
