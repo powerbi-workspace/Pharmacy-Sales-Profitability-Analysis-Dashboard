@@ -1,4 +1,4 @@
-# 💊 Pharmacy Sales & Profitability Analysis Dashboard | Power BI
+# 💊 Pharmacy Sales & Profitability Analysis Dashboard
 
 ---
 
@@ -110,7 +110,7 @@ This dashboard helps stakeholders to:
 ---
 
 ## 👤 About Me
-Sasi – Data Analyst (2.5 years experience)  
+I’m a Data Analyst with 2.5 years of experience, building projects in Power BI and data analytics to develop real-world business insights and data storytelling skills.
 
 
 
